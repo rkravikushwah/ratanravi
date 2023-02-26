@@ -9,7 +9,7 @@ function App()
     {
       id:'e1',
       title:'car service',
-      price:200,
+      price:500,
       date:new Date(2022,5,23)
     },
     {
